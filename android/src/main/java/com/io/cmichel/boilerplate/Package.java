@@ -1,4 +1,4 @@
-package com.pilotly.reactbattery;
+package io.cmichel.boilerplate;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.JavaScriptModule;

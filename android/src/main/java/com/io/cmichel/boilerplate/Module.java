@@ -1,4 +1,4 @@
-package com.pilotly.reactbattery;
+package io.cmichel.boilerplate;
 
 import android.widget.Toast;
 
@@ -20,7 +20,7 @@ public class Module extends ReactContextBaseJavaModule {
 
   @Override
   public String getName() {
-    return "ReactBattery";
+    return "Boilerplate";
   }
 
   @Override
