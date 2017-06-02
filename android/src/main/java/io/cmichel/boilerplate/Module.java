@@ -27,7 +27,7 @@ public class Module extends ReactContextBaseJavaModule {
 
   @Override
   public String getName() {
-    return "Boilerplate";
+    return "ReactBattery";
   }
 
   @Override
